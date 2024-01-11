@@ -14,6 +14,12 @@ Updating...
   
   (5) [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/abs/2303.18240)
 
+  (6) [AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/abs/2401.03568)
+
+  (7) [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](http://arxiv.org/abs/2401.00812)
+
+  
+
 ## 一、Multimodal understanding
   (1) [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)
   
@@ -25,6 +31,8 @@ Updating...
   
 ## 四、Task Planning
   (1) [TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS](https://arxiv.org/abs/2307.16789)
+  
+  (2) [AUTOACT: Automatic Agent Learning from Scratch via Self-Planning](https://arxiv.org/pdf/2401.05268.pdf)
   
 ## 五、Task Decision
   (1) [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)
